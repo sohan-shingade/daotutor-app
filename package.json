@@ -2,7 +2,7 @@
   "name": "daotutor-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://daotutors.me/daotutor-app/",
+  "homepage": "https://sohan-shingade.github.io/daotutor-app/",
   "dependencies": {
     "aphrodite": "^2.4.0",
     "@testing-library/jest-dom": "^4.2.4",
