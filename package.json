@@ -4,13 +4,19 @@
   "private": true,
   "homepage": "http://daotutors.me/daotutor-app/",
   "dependencies": {
+    "aphrodite": "^2.4.0",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
     "gh-pages": "^3.1.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
+    "react-scripts": "3.4.1",
+    "react-native-popup-menu": "^0.15.8",
+    "react-native-responsive-dimensions": "^3.1.1",
+    "react-native-scalable-image": "^1.0.0",
+    "react-native-text": "^1.0.8",
+    "react-native-web": "0.12.2"
   },
   "scripts": {
     "start": "react-scripts start",
