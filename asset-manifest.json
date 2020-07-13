@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/daotutor-app/static/css/main.5f361e03.chunk.css",
-    "main.js": "/daotutor-app/static/js/main.312cb104.chunk.js",
-    "main.js.map": "/daotutor-app/static/js/main.312cb104.chunk.js.map",
+    "main.js": "/daotutor-app/static/js/main.7a4d4436.chunk.js",
+    "main.js.map": "/daotutor-app/static/js/main.7a4d4436.chunk.js.map",
     "runtime-main.js": "/daotutor-app/static/js/runtime-main.25337d7a.js",
     "runtime-main.js.map": "/daotutor-app/static/js/runtime-main.25337d7a.js.map",
-    "static/js/2.6c0c3a9e.chunk.js": "/daotutor-app/static/js/2.6c0c3a9e.chunk.js",
-    "static/js/2.6c0c3a9e.chunk.js.map": "/daotutor-app/static/js/2.6c0c3a9e.chunk.js.map",
+    "static/js/2.ff5ea293.chunk.js": "/daotutor-app/static/js/2.ff5ea293.chunk.js",
+    "static/js/2.ff5ea293.chunk.js.map": "/daotutor-app/static/js/2.ff5ea293.chunk.js.map",
     "index.html": "/daotutor-app/index.html",
-    "precache-manifest.aed822b3f0a01928f88895036e08cb44.js": "/daotutor-app/precache-manifest.aed822b3f0a01928f88895036e08cb44.js",
+    "precache-manifest.e9ccdcb736070c3c13893dbae91d2abe.js": "/daotutor-app/precache-manifest.e9ccdcb736070c3c13893dbae91d2abe.js",
     "service-worker.js": "/daotutor-app/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/daotutor-app/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.6c0c3a9e.chunk.js.LICENSE.txt": "/daotutor-app/static/js/2.6c0c3a9e.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/daotutor-app/static/media/logo.5d5d9eef.svg"
+    "static/js/2.ff5ea293.chunk.js.LICENSE.txt": "/daotutor-app/static/js/2.ff5ea293.chunk.js.LICENSE.txt",
+    "static/media/DAOtutorlogotest3.png": "/daotutor-app/static/media/DAOtutorlogotest3.960b99b0.png",
+    "static/media/Headshot-Placeholder-1.png": "/daotutor-app/static/media/Headshot-Placeholder-1.0bf58ad9.png",
+    "static/media/example-scene-1.svg": "/daotutor-app/static/media/example-scene-1.aac0b32f.svg",
+    "static/media/scene-four.svg": "/daotutor-app/static/media/scene-four.c125a6e2.svg",
+    "static/media/scene-one.svg": "/daotutor-app/static/media/scene-one.81d43a70.svg",
+    "static/media/scene-three.svg": "/daotutor-app/static/media/scene-three.f7a9935a.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.25337d7a.js",
-    "static/js/2.6c0c3a9e.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.312cb104.chunk.js"
+    "static/js/2.ff5ea293.chunk.js",
+    "static/js/main.7a4d4436.chunk.js"
   ]
 }
